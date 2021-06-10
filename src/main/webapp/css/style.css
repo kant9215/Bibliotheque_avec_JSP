@@ -1,0 +1,14 @@
+@charset "UTF-8";
+*{
+	background-color: hotpink;
+}
+
+.livre{
+	border: 2px solid green;
+	
+}
+
+.livre div{
+	background-color: white;
+}
+
