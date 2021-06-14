@@ -5,6 +5,11 @@ public class Livre {
 	private String titre;
 	private String auteur;
 	private String reference;
+	
+	public Livre() {
+		
+	}
+	
 	public Livre(String titre, String auteur, String reference) {
 		super();
 		this.titre = titre;
